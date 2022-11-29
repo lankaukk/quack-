@@ -18,6 +18,7 @@ export var App = (props) => {
         alignItems: 'center',
         ...props.style,
         backgroundColor: 'rgb(35, 37, 44, 1)',
+        marginTop: -50,
       }}
     >
       <FlexRow style={{ gap: 50 }}>

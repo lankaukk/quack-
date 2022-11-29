@@ -10,8 +10,6 @@ export var storyboard = (
         width: 800,
         height: 1133,
         position: 'absolute',
-        left: 1036,
-        top: 128,
         backgroundColor: '/*rgb(0, 0, 0, 1)*/',
         backgroundImage:
           'conic-gradient(rgb(67, 67, 67) 0.25turn, rgb(44, 45, 48) 0.25turn, rgb(44, 45, 48) 0.5turn, rgb(67, 67, 67) 0.5turn, rgb(67, 67, 67) 0.75turn, rgb(44, 45, 48) 0.75turn)',
